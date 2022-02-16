@@ -7,7 +7,8 @@ Berisi code pengenalan python.
 ## Materi 2 	🚀	🚀
 ### 16 Februari 2022
 Berisi materi Data Understanding, yang dipelajari Data Gathering
-Cara mengambil data, mengakses sumber data internal atau eksternal.
+
+Cara mengambil data, mengakses sumber data secara internal atau eksternal.
 - Manual
 - By code
 - Crawling data
