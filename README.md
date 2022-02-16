@@ -2,7 +2,9 @@
 
 ## Materi 1 	🚀
 ### 9 Februari 2022
-Berisi code pengenalan python.
+Berisi code pengenalan python
+
+Instalasi Library PANDAS dan  Library MATPLOTLIB
 
 ## Materi 2 	🚀	🚀
 ### 16 Februari 2022
