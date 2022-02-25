@@ -33,4 +33,7 @@ Melihat dan memahami data dari visualisasi
 - Scatter plot
 - Heatmap
 
+## Pertemuan 6	📊
+### Berisi file tugas Data Understanding-Visualisasi.
+
 
