@@ -39,16 +39,19 @@ Melihat dan memahami data dari visualisasi
 
 ## Pertemuan 7 🚀
 ### 2 Maret 2022
-Berisi materi Data Preparation, Data Cleaning
+Berisi materi Data Preparation, Data Cleaning, Hands On
 
 Sumber data yang digunakan:
 - BL-Flickr-Images-Book
 - university_towns
+- train
 
 source: 
 
 https://github.com/realpython/python-data-cleaning/blob/master/Datasets/BL-Flickr-Images-Book.csv
 
 https://github.com/realpython/python-data-cleaning/blob/master/Datasets/university_towns.txt
+
+https://www.kaggle.com/iabhishekofficial/mobile-price-classification#train.csv
 
 
