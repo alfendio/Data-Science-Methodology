@@ -37,3 +37,18 @@ Melihat dan memahami data dari visualisasi
 ### Berisi file tugas Data Understanding-Visualisasi.
 
 
+## Pertemuan 7 🚀
+### 2 Maret 2022
+Berisi materi Data Preparation, Data Cleaning
+
+Sumber data yang digunakan:
+- BL-Flickr-Images-Book
+- university_towns
+
+source: 
+
+https://github.com/realpython/python-data-cleaning/blob/master/Datasets/BL-Flickr-Images-Book.csv
+
+https://github.com/realpython/python-data-cleaning/blob/master/Datasets/university_towns.txt
+
+
