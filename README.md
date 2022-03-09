@@ -55,3 +55,18 @@ https://github.com/realpython/python-data-cleaning/blob/master/Datasets/universi
 https://www.kaggle.com/iabhishekofficial/mobile-price-classification#train.csv
 
 
+## Pertemuan 8 🚀🚀
+### 9 Maret 2022
+Berisi materi tentang Imputasi.
+
+Imputasi adalah mengganti nilai/data yang hilean (missing value; NaN; blank) dengan nilai pengganti.
+
+Teknik imputasi berdasarkan tipe data, terdiri dari:
+1. Tipe data Variabel Numerik, dengan cara:
+   - Imputasi mean atau median.
+   - Imputasi nilai suka-suka (arbitrary).
+   - Imputasi nilai/data ujung (end of tail).
+   
+2. Tipe data Variabel Kategorik, dengan cara:
+   - Imputasi kategori yang sering muncul.
+   - Tambah kategori yang hilang.
