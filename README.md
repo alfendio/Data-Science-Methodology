@@ -59,7 +59,7 @@ https://www.kaggle.com/iabhishekofficial/mobile-price-classification#train.csv
 ### 9 Maret 2022
 Berisi materi tentang Imputasi.
 
-Imputasi adalah mengganti nilai/data yang hilean (missing value; NaN; blank) dengan nilai pengganti.
+Imputasi adalah mengganti nilai/data yang hilang (missing value; NaN; blank) dengan nilai pengganti.
 
 Teknik imputasi berdasarkan tipe data, terdiri dari:
 1. Tipe data Variabel Numerik, dengan cara:
