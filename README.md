@@ -34,7 +34,7 @@ Melihat dan memahami data dari visualisasi
 - Heatmap
 
 ## Pertemuan 6	📊
-### Berisi file tugas Data Understanding-Visualisasi.
+Berisi file tugas Data Understanding-Visualisasi.
 
 
 ## Pertemuan 7 🚀
@@ -70,3 +70,7 @@ Teknik imputasi berdasarkan tipe data, terdiri dari:
 2. Tipe data Variabel Kategorik, dengan cara:
    - Imputasi kategori yang sering muncul.
    - Tambah kategori yang hilang.
+
+## TTS_ALFEND 🔥
+### 16 Maret 2022
+Berisi file jawaban TTS.
