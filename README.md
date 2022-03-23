@@ -73,4 +73,29 @@ Teknik imputasi berdasarkan tipe data, terdiri dari:
 
 ## TTS_ALFEND 🔥
 ### 16 Maret 2022
-Berisi file jawaban TTS.
+Pertemuan 9. Berisi file jawaban TTS.
+
+## Pertemuan 10 🚀🚀🚀
+### 23 Maret 2022
+Berisi materi tentang Membangun Model Klasifikasi.
+Pembangunan model menggunakan library.
+
+Membangun Model:
+- Merancang skenario model
+- Membangun model klasifikasi
+
+Algoritma:
+- KNN (K-Nearest Neighbors)
+- D-Tree (Decision Tree)
+- SVM (Support Vector Machine)
+- Logistic Regression
+- Naive Bayes
+
+Pembagian Data:
+- Data latih (Data training), untuk mengembangkan model.
+- Data uji (Data testing), untuk mengukur performansi model.
+
+Dataset:
+- Dataset Iris (Training data: 70%, Testing data: 30%)
+
+source: https://archive.ics.uci.edu/ml/datasets/iris
