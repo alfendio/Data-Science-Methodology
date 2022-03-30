@@ -99,3 +99,25 @@ Dataset:
 - Dataset Iris (Training data: 70%, Testing data: 30%)
 
 source: https://archive.ics.uci.edu/ml/datasets/iris
+
+## Pertemuan 11 🚀
+### 30 Maret 2022
+Berisi materi Clustering.
+
+Mengelompokkan, data tidak ada label, masuk dalam supervised learning.
+
+- K-Means
+- Hierarchical Clustering
+- DBSCAN
+
+Dataset :
+- Cust_Segmentation.csv
+- cars_clus.csv
+
+source:
+
+https://s3-api.us-geo.objectstorage.softlayer.net/cf-courses-data/CognitiveClass/ML0101ENv3/labs/Cust_Segmentation.csv
+
+https://s3-api.us-geo.objectstorage.softlayer.net/cf-courses-data/CognitiveClass/ML0101ENv3/labs/cars_clus.csv
+
+
