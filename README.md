@@ -1,4 +1,4 @@
-# Data-Science-Methodology
+# Data Science Methodology
 
 ## Materi 1 	🚀
 ### 9 Februari 2022 - Pertemuan 4
